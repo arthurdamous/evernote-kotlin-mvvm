@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arthu/Downloads/EvernoteKt-Projeto-Inicial/EvernoteKt/app/src/main/res/layout/activity_form.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/arthu/Downloads/EvernoteKt-Projeto-Inicial/EvernoteKt/app/src/main/res/layout/content_form.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/arthu/Downloads/EvernoteKt-Projeto-Inicial/EvernoteKt/app/src/main/res/layout/content_home.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/arthu/Downloads/EvernoteKt-Projeto-Inicial/EvernoteKt/app/src/main/res/menu/home.xml" value="0.465625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
